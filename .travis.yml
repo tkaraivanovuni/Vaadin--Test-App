@@ -3,7 +3,7 @@ language: java
 dist: trusty
 
 jdk:
-- OpenJdk8
+- openjdk8
 
 before_install:
 - mvn clean
